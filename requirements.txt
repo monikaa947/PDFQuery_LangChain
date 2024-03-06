@@ -1,0 +1,8 @@
+datasets 
+langchain 
+openai 
+# tiktoken
+PyPDF2
+python-dotenv
+langchain-astradb
+langchain-openai
